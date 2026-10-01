@@ -1,6 +1,6 @@
 [project]
 name = "pyrage"
-requires-python = ">=3.10"
+requires-python = ">=3.11"
 classifiers = [
   "Operating System :: POSIX :: Linux",
   "Programming Language :: Rust",
